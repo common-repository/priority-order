@@ -1,0 +1,23 @@
+a.button.tips.view.priority:after {
+	content: "\f155";
+}
+
+mark.priority-order.tips:after {
+    font-family: Dashicons;
+    speak: none;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+    text-indent: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    content: "\f155";
+    color: #73a724;
+}
